@@ -1,0 +1,10 @@
+{
+  "name": "amazon-clone",
+  "version": "1.0.0",
+  "description": "My Amazon Clone ",
+  "main": "./src/index.ts",
+  "repository": "https://github.com/Peculiar-codes/amazon-clone.git",
+  "author": "Peculiar-codes <culestfrosh@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
